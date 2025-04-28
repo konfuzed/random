@@ -884,7 +884,10 @@ body#upload .thin > div[style*="width:700px"] {
 }
 
 .simple-tabs__link--active {
+  display: inline-block;
   color: #b3e725;
+  background-color: #b3e72520;
+  padding: 0 0.5rem;
 }
 
 .grid {
